@@ -5,6 +5,8 @@ class Zadanie1 {
   System.out.println("programowania");
   System.out.println("i");
   System.out.println("commitowania");
+  System.out.println("jakies zmiany");
+  System.out.println ("dnia " + "17 " + "maja");
 
  }
 }
